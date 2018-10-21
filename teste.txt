@@ -1,0 +1,33 @@
+program programa;
+var sla:boolean;
+    coisas:integer;
+
+procedure proc(sla3, variavel:integer);
+begin
+ sla := true;
+end;
+
+procedure procedimento;
+begin
+ sla := false;
+end;
+
+function funcao:integer;
+var tois, toinbs:integer;
+    hadbsf:boolean;
+
+begin
+  tois:=98;
+end;
+
+begin
+ sla:=false;
+ while (sla = true) and (coisas < 8) or (coisas = 0) do
+ begin
+  sla:=false;
+ end
+ else
+ begin
+  sla:=true;
+ end;
+end;

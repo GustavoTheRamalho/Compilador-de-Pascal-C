@@ -1,0 +1,311 @@
+# depslib dependency file v1.0
+1513557134 source:e:\técnico\too\projeto\qc\quasecompilador\main.cpp
+	<iostream>
+	"TabelaDeSimbolo.h"
+	"No.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	"AnalisadorSintatico.h"
+	"string"
+	<string.h>
+	<stdlib.h>
+
+1513457604 e:\técnico\too\projeto\qc\quasecompilador\include\tabeladesimbolo.h
+	"Simbolo.h"
+	"No.h"
+
+1513555380 e:\técnico\too\projeto\qc\quasecompilador\include\simbolo.h
+	"AnalisadorLexico.h"
+
+1513528334 e:\técnico\too\projeto\qc\quasecompilador\include\analisadorlexico.h
+	<stdio.h>
+
+1513199232 e:\técnico\too\projeto\qc\quasecompilador\include\no.h
+	"Simbolo.h"
+
+1513554558 e:\técnico\too\projeto\qc\quasecompilador\include\analisadorsintatico.h
+	"AnalisadorLexico.h"
+	"Simbolo.h"
+	"TabelaDeSimbolo.h"
+	<stdexcept>
+
+1513529222 source:e:\técnico\too\projeto\qc\quasecompilador\src\analisadorlexico.cpp
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1513557970 source:e:\técnico\too\projeto\qc\quasecompilador\src\analisadorsintatico.cpp
+	"AnalisadorSintatico.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdexcept>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1513459574 source:e:\técnico\too\projeto\qc\quasecompilador\src\no.cpp
+	"No.h"
+	<stdlib.h>
+
+1513555386 source:e:\técnico\too\projeto\qc\quasecompilador\src\simbolo.cpp
+	"Simbolo.h"
+	<stdlib.h>
+	<string.h>
+
+1513484102 source:e:\técnico\too\projeto\qc\quasecompilador\src\tabeladesimbolo.cpp
+	"TabelaDeSimbolo.h"
+	"No.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513610772 source:f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\main.cpp
+	<iostream>
+	"TabelaDeSimbolo.h"
+	"No.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	"AnalisadorSintatico.h"
+	"string"
+	<string.h>
+	<stdlib.h>
+
+1513454004 f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\tabeladesimbolo.h
+	"Simbolo.h"
+	"No.h"
+
+1513607218 f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\simbolo.h
+	"AnalisadorLexico.h"
+
+1513524734 f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorlexico.h
+	<stdio.h>
+
+1513195632 f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\no.h
+	"Simbolo.h"
+
+1513606960 f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorsintatico.h
+	"AnalisadorLexico.h"
+	"Simbolo.h"
+	"TabelaDeSimbolo.h"
+	<stdexcept>
+
+1513525622 source:f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorlexico.cpp
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1513610796 source:f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorsintatico.cpp
+	"AnalisadorSintatico.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdexcept>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1513455974 source:f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\no.cpp
+	"No.h"
+	<stdlib.h>
+
+1513608506 source:f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\simbolo.cpp
+	"Simbolo.h"
+	<stdlib.h>
+	<string.h>
+
+1513480502 source:f:\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\tabeladesimbolo.cpp
+	"TabelaDeSimbolo.h"
+	"No.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513610772 source:z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\main.cpp
+	<iostream>
+	"TabelaDeSimbolo.h"
+	"No.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	"AnalisadorSintatico.h"
+	"string"
+	<string.h>
+	<stdlib.h>
+
+1513454004 z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\tabeladesimbolo.h
+	"Simbolo.h"
+	"No.h"
+
+1513607218 z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\simbolo.h
+	"AnalisadorLexico.h"
+
+1513524734 z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorlexico.h
+	<stdio.h>
+
+1513195632 z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\no.h
+	"Simbolo.h"
+
+1513606960 z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorsintatico.h
+	"AnalisadorLexico.h"
+	"Simbolo.h"
+	"TabelaDeSimbolo.h"
+	<stdexcept>
+
+1513525622 source:z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorlexico.cpp
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1513610796 source:z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorsintatico.cpp
+	"AnalisadorSintatico.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdexcept>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1513455974 source:z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\no.cpp
+	"No.h"
+	<stdlib.h>
+
+1513608506 source:z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\simbolo.cpp
+	"Simbolo.h"
+	<stdlib.h>
+	<string.h>
+
+1513480502 source:z:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\tabeladesimbolo.cpp
+	"TabelaDeSimbolo.h"
+	"No.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1513607172 source:f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\main.cpp
+	<iostream>
+	"TabelaDeSimbolo.h"
+	"No.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	"AnalisadorSintatico.h"
+	"string"
+	<string.h>
+	<stdlib.h>
+
+1513450404 f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\tabeladesimbolo.h
+	"Simbolo.h"
+	"No.h"
+
+1513603618 f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\simbolo.h
+	"AnalisadorLexico.h"
+
+1513521134 f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorlexico.h
+	<stdio.h>
+
+1513192032 f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\no.h
+	"Simbolo.h"
+
+1513603360 f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorsintatico.h
+	"AnalisadorLexico.h"
+	"Simbolo.h"
+	"TabelaDeSimbolo.h"
+	<stdexcept>
+
+1513522022 source:f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorlexico.cpp
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1513607196 source:f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorsintatico.cpp
+	"AnalisadorSintatico.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdexcept>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1513452374 source:f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\no.cpp
+	"No.h"
+	<stdlib.h>
+
+1513604906 source:f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\simbolo.cpp
+	"Simbolo.h"
+	<stdlib.h>
+	<string.h>
+
+1513476902 source:f:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\tabeladesimbolo.cpp
+	"TabelaDeSimbolo.h"
+	"No.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526041888 source:e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\main.cpp
+	<iostream>
+	"TabelaDeSimbolo.h"
+	"No.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	"AnalisadorSintatico.h"
+	"string"
+	<string.h>
+	<stdlib.h>
+
+1513450404 e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\tabeladesimbolo.h
+	"Simbolo.h"
+	"No.h"
+
+1513603618 e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\simbolo.h
+	"AnalisadorLexico.h"
+
+1513521134 e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorlexico.h
+	<stdio.h>
+
+1513192032 e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\no.h
+	"Simbolo.h"
+
+1513603360 e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\include\analisadorsintatico.h
+	"AnalisadorLexico.h"
+	"Simbolo.h"
+	"TabelaDeSimbolo.h"
+	<stdexcept>
+
+1526040144 source:e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorlexico.cpp
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
+1513607196 source:e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\analisadorsintatico.cpp
+	"AnalisadorSintatico.h"
+	"Simbolo.h"
+	"AnalisadorLexico.h"
+	<string.h>
+	<stdexcept>
+	<stdlib.h>
+	<stdio.h>
+	<iostream>
+
+1513452374 source:e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\no.cpp
+	"No.h"
+	<stdlib.h>
+
+1513604906 source:e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\simbolo.cpp
+	"Simbolo.h"
+	<stdlib.h>
+	<string.h>
+
+1513476902 source:e:\final msm\ifbipolarechamadasdeprocefuncruim\qc\quasecompilador\src\tabeladesimbolo.cpp
+	"TabelaDeSimbolo.h"
+	"No.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
